@@ -11,4 +11,8 @@
     .card{
         @apply border-gray-500 border-2 bg-gray-100 p-5 rounded cursor-pointer
     }
+
+    .form-field{
+        @apply border-2 object-contain rounded-lg
+    }
 }
